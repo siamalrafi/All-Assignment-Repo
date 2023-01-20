@@ -1,0 +1,3 @@
+github link: https://github.com/programming-hero-web-course1/b6-type-monster-debug-assignment-Rahathasandipto
+live website link: https://warm-entremet-0872b2.netlify.app/
+live blog link: https://warm-entremet-0872b2.netlify.app/blog.html
